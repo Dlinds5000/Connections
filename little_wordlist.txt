@@ -1,0 +1,11 @@
+sandwich
+chicken
+pizza
+cat
+ocean
+shout
+yell
+orange
+pink
+food
+pet
